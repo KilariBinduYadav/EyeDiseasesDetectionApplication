@@ -1,0 +1,52 @@
+.report {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 25px;
+}
+
+h5, h6, h3{
+    text-align: center;
+}
+
+td,th {
+    text-align: center;
+  }
+.form {
+
+    width: 75%;
+    margin-left: 20%;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 50px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+    margin-left: 5%;
+    height: 50%;
+    width: 90%;
+}
+
+.form-container{
+        display: block;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        /* width: 100vw;
+        height: 100vh; */
+}
+
+.form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+    color: black;
+    font-size: 16px;
+}
+
+.form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: #000066;
+    font-weight: 800;
+}
